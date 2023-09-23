@@ -1,0 +1,51 @@
+
+.employee-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    background-color:blanchedalmond;
+  }
+  
+  .input-container {
+    margin-bottom: 10px;
+    padding-right: 20px;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .text-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .display-container {
+    margin-top: 20px;
+    padding: 2  0px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+  }
+
+  .submit-button{
+    margin-top: 30px;
+    background-color: pink;
+    color:black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  .submit-button:hover{
+    background-color: darkorchid;
+    color: white;
+    
+  }
+  
